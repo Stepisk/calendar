@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Календарь</string>
+    <string name="event_title">Название</string>
+    <string name="event_description">Описание</string>
+    <string name="type_here">Вводите здесь…</string>
+    <string name="about_program">О программе</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="about_title">Курсовой проект \"Календарь\"</string>
+    <string name="about_text">по дисциплине \"Разработка приложений для мобильных устройств\"\n\nРазработал:\nучащийся гр.7к1391\nСтрибук Степан</string>
+    <string name="add_event">Добавить мероприятие</string>
+</resources>

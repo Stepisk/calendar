@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Calendar</string>
+    <string name="event_title">Title</string>
+    <string name="event_description">Description</string>
+    <string name="type_here">Type here…</string>
+    <string name="about_program">About program</string>
+    <string name="about_title">Course project \"Calendar\"</string>
+    <string name="about_text">in the discipline \"Development of applications for mobile devices\"\n\nDeveloped by a student\nof the group 7k1391\nStribuk Stepan</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_event">Add event</string>
 </resources>
